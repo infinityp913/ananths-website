@@ -15,4 +15,6 @@ A website for Ananth, by Ananth :tada:.
 
 All in one place. Crazy :astonished:, right?    
 
-Like a dream come true. 
+Like a dream come true.   
+  
+Check me out on [Twitter](https://twitter.com/ananthp_) and [Linkedin](https://linkedin.com/in/ananth-preetham)
