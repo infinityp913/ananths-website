@@ -4,8 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Ananth's Space
+  Ananth's Space :rocket:
 </h1>  
 
-A website for Ananth, by Ananth. Learn about Ananth, cherish Ananth and read what Ananth writes. All in one place. Crazy, right?  
-Like a dream come true.
+A website for Ananth, by Ananth :tada: :tada:.  
+Learn about :star2: Ananth, cherish :star2: Ananth and read what :star2: Ananth writes.   
+All in one place. Crazy :astonished:, right?  
+Like a dream come true. 
