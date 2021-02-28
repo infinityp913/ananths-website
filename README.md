@@ -7,7 +7,7 @@
   Ananth's Space :rocket:
 </h1>  
 
-A website for Ananth, by Ananth :tada: :tada:.   
+A website for Ananth, by Ananth :tada:.   
 
 :star2: Learn about Ananth    
 :star2: Cherish Ananth     
