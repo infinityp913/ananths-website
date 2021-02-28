@@ -7,7 +7,12 @@
   Ananth's Space :rocket:
 </h1>  
 
-A website for Ananth, by Ananth :tada: :tada:.  
-Learn about :star2: Ananth, cherish :star2: Ananth and read what :star2: Ananth writes.   
-All in one place. Crazy :astonished:, right?  
+A website for Ananth, by Ananth :tada: :tada:.   
+
+:star2: Learn about Ananth    
+:star2: Cherish Ananth     
+:star2: Read what Ananth writes.     
+
+All in one place. Crazy :astonished:, right?    
+
 Like a dream come true. 
