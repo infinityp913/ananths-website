@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img style={border-radius: 50%;} alt="Ananth's pic" src="assets/images/prof-pic.jpg" width="110" />
+    <img style="border-radius: 50%;" alt="Ananth's pic" src="assets/images/prof-pic.jpg" width="110" />
   </a>
 </p>
 <h1 align="center">
