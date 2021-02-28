@@ -5,6 +5,7 @@
 </p>
 <h1 align="center">
   Ananth's Space
-</h1>
+</h1>  
+
 A website for Ananth, by Ananth. Learn about Ananth, cherish Ananth and read what Ananth writes. All in one place. Crazy, right?  
 Like a dream come true.
