@@ -1,1 +1,0 @@
-# ananths-website
