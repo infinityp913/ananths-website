@@ -1,0 +1,19 @@
+.rcorners {
+    border-radius: 25px;
+    background: #1c2b50;
+    padding: 50px auto 200px auto;
+    width: 1000px;
+    height: 500px;
+  }
+  
+.cardcontainer{
+margin-top: 3rem;
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100vw;
+}
+
+.profpic{
+    border-radius: 50%;
+}
